@@ -1,0 +1,1 @@
+long mixed_sum(long a, long b, char pos);
